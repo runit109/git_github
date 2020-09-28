@@ -2,7 +2,7 @@
 
 Created: Sep 16, 2020 3:03 PM
 
-[assets/basics.mp4](assets/basics.mp4)
+[assets/basics.mp4](https://drive.google.com/file/d/1UJCjjMCcwNQ0Ox_rtdE7AXsepPkG-cUt/view?usp=sharing)
 
 # What is version control?
 
@@ -26,7 +26,7 @@ You will have a local copy (on your computer) and an online copy (on Github) of 
 
 # Sign up as a Rutgers student
 
-[assets/signup.mp4](assets/signup.mp4)
+[assets/signup.mp4](https://drive.google.com/file/d/15DjdJiEbiWR7_Fs0qsixxudSWabbkDx0/view?usp=sharing)
 
 # GitHub Student Developer Pack
 
@@ -54,7 +54,7 @@ You will have a local copy (on your computer) and an online copy (on Github) of 
 
 ## Git Cheatsheet
 
-[git-cheat-sheet-education.pdf](Gassets/git-cheat-sheet-education.pdf)
+[git-cheat-sheet-education.pdf](assets/git-cheat-sheet-education.pdf)
 
 ## GitHub Docs
 
